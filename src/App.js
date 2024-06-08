@@ -7,6 +7,7 @@ var emojiDictionary = {
   "❤️": "love",
   "👍": "thumbs up",
   "😒": "side eye",
+  "😅": "honestly, who knows?"
 };
 
 export default function App() {
