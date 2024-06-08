@@ -6,6 +6,6 @@
  2. Alternatively, user can click on the list of emojis available, to view their meaning.
  3. Used useState hook to update the meaning of currently selected / entered emoji.
 
-    Check out the live app at: https://8d46pq.csb.app/
+    Check out the live app at: https://8lncdy.csb.app/
 
 Do interpret your most confusing emojis! (mine is 😅)
